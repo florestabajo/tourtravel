@@ -1,0 +1,30 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center; /* Center the text */
+    padding: 20px; /* Add some padding */
+}
+
+.hero-image {
+    width: 100%; /* Responsif */
+    height: auto; /* Sesuaikan tinggi */
+    border-radius: 8px; /* Sudut membulat */
+    margin-top: 20px; /* Jarak atas */
+}
+
+footer {
+    background-color: #333; /* Warna latar footer */
+    color: white; /* Warna teks footer */
+    text-align: center; /* Rata tengah */
+    padding: 20px 0; /* Padding atas dan bawah */
+    position: relative; /* Untuk posisi footer */
+    bottom: 0; /* Menempatkan footer di bagian bawah */
+    width: 100%; /* Lebar penuh */
+}
